@@ -22,16 +22,6 @@
 <br />
 
 
-This repository provides a **field and lab workflow** for collecting and processing **rhizosheath soil samples** for microbiome analysis (16S/ITS/shotgun metagenomics).  
-
-It includes:
-- A detailed **Standard Operating Procedure (SOP)**
-- A **1-page printable field sheet (PDF)** for use during sampling
-- Metadata recording guidelines
-- Notes on pitfalls, controls, and preservation
-
----
-
 ## 🌱 What is the Rhizosheath?
 
 The **rhizosheath** is the soil that remains tightly adhered to plant roots after gently shaking off loose soil. It is distinct from:
@@ -43,7 +33,27 @@ The **rhizosheath** is the soil that remains tightly adhered to plant roots afte
 
 ---
 
-## 🧰 Materials Checklist
+
+## **CONTENT**
+
+This repository provides a **field and lab workflow** for collecting and processing **rhizosheath soil samples** for microbiome analysis (16S/ITS/shotgun metagenomics).  
+
+It includes:
+
+1. A detailed Standard Operating Procedure (SOP)
+2. Metadata recording guidelines
+3. Lab Processing
+4. Common Pitfalls & Fixes
+5. A **1-page printable field sheet (PDF)** for use during sampling
+6. Notes
+
+
+---
+
+## **1. Standard Operating Procedure (SOP)** 
+
+
+### 🧰 1.1 Materials Checklist
 
 - Sterile nitrile gloves, masks  
 - 70% ethanol spray + wipes  
@@ -59,7 +69,7 @@ The **rhizosheath** is the soil that remains tightly adhered to plant roots afte
 
 ---
 
-## 📋 Sampling Steps
+### 📋 1.2 Sampling Steps
 
 1. **Pre-label tubes** with: project, site, date, plant ID, replicate, and fraction (“rhizosheath”).  
 2. **Excavate roots** carefully (10–20 cm depth) keeping sheath intact.  
@@ -71,7 +81,7 @@ The **rhizosheath** is the soil that remains tightly adhered to plant roots afte
 
 ---
 
-## 🗒️ Metadata to Record
+## 🗒️ **2. Metadata to Record**
 
 - Site / GPS / Date / Time  
 - Plant species (take photo if possible)  
@@ -82,29 +92,29 @@ The **rhizosheath** is the soil that remains tightly adhered to plant roots afte
 
 ---
 
-## 🧪 Lab Processing
+## 🧪 **3. Lab Processing**
 
-1. **Receipt & storage**  
+3.1. **Receipt & storage**  
    - Log samples and cross-check metadata.  
    - Store at −80 °C or as preservative guidelines recommend.  
 
-2. **Rhizosheath cleanup**  
+3.2. **Rhizosheath cleanup**  
    - If root+sheath were collected, brush soil from roots in a sterile hood.  
    - Process roots separately for rhizoplane/endosphere if required.  
 
-3. **Subsampling & extraction**  
+3.3. **Subsampling & extraction**  
    - Use ~0.25–0.5 g soil per extraction.  
    - Pool only within the same replicate (never across plants unless intended).  
    - Use bead-beating and inhibitor removal steps (rhizosheath often contains sticky polymers).  
 
-4. **QC and downstream**  
+3.4. **QC and downstream**  
    - Quantify DNA (Qubit), check purity (A260/280).  
    - For amplicons: use 16S primers (e.g., 515F/806R for bacteria/archaea).  
    - For shotgun: ensure ≥1–5 ng/µL high-quality DNA.  
 
 ---
 
-## ⚠️ Common Pitfalls & Fixes
+## ⚠️ **4. Common Pitfalls & Fixes**
 
 - **Not enough soil**: target fibrous fine roots; pool segments if necessary.  
 - **Cross-contamination**: enforce glove/tool changes; use field blanks.  
@@ -114,7 +124,7 @@ The **rhizosheath** is the soil that remains tightly adhered to plant roots afte
 
 ---
 
-## 📄 1-Page Field Sheet
+## 📄 **5. 1-Page Field Sheet**
 
 A **1-page printable PDF** was generated for quick use in the field.  
 It includes:
@@ -126,7 +136,7 @@ It includes:
 
 ---
 
-## 📌 Notes
+## 📌 **6. Notes**
 
 - Always follow local land access and biosecurity regulations.  
 - Clean boots and tools between sites to avoid cross-contamination of soil biota.  
