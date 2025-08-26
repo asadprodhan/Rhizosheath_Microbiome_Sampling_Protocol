@@ -100,7 +100,7 @@ It includes:
 - Step-by-step field protocol  
 - Metadata table for sample recording  
 
-👉 [Download Rhizosheath Field Sheet (PDF)](sandbox:/mnt/data/rhizosheath_sampling_field_sheet.pdf)  
+👉 [Download Rhizosheath Field Sheet (PDF)](https://github.com/asadprodhan/Rhizosheath_Microbiome_Sampling_Protocol/blob/main/rhizosheath_sampling_field_sheet.pdf)  
 
 ---
 
